@@ -1,7 +1,7 @@
 Config = {}
 
 Config.Inventory = 'ox' -- 'qb'  'ox'
-Config.Target = 'interact' -- 'target'  'interact'
+Config.Target = 'interact' -- 'qb-target'  'interact'
 
 Config.Depo = {
     [1] = {
